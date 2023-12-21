@@ -16,7 +16,7 @@ Energy consumption Data - The primary dataset used in the analysis is "Energy Co
 1. Data loading and inspection
 2. Finding missing Values
 3. Data cleaning and Formatting
-4. Once the data is cleaned and tranformed Data Modelling is for the all the three tables.
+4. Once the data is cleaned and tranformed, Data Modelling is done.
 5. Measures and Calculated columns are created using DAX functions.
 6. Visualizations are created in the report view as per the requirements for the analysis.
 

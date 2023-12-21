@@ -3,6 +3,8 @@
 ## Description
 The consumption of energies such as Gas,Water and Electricity is being analysed in buildings located across different states in Unites States using POWERBI.
 
+![](Energy-Consumption.png)
+
 ## Data Sources
 Energy consumption Data - The primary dataset used in the analysis is "Energy Consumptions Dataset.csv" file containing the information about the consumption of Gas,Water and Electricity for the different building,units consumed ,charges per units acroos different states in U.S for the year 2016 to 2020.
 
